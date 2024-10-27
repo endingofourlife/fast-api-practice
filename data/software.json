@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "name": "CodeMaster Pro",
+        "version": "3.1.4",
+        "price": 49.99,
+        "description": "A powerful code editor with syntax highlighting and debugging tools."
+    },
+    {
+        "id": 2,
+        "name": "SecureShield Antivirus",
+        "version": "12.5",
+        "price": 29.99,
+        "description": "Antivirus software offering real-time protection against malware and phishing attacks."
+    },
+    {
+        "id": 3,
+        "name": "DataViz Suite",
+        "version": "2.0.1",
+        "price": 99.99,
+        "description": "A comprehensive data visualization tool for creating charts, graphs, and dashboards."
+    },
+    {
+        "id": 4,
+        "name": "PhotoFix Pro",
+        "version": "1.9.7",
+        "price": 19.99,
+        "description": "Advanced photo editing software with tools for retouching and color correction."
+    },
+    {
+        "id": 5,
+        "name": "ProjectTracker",
+        "version": "4.3",
+        "price": 15.0,
+        "description": "Project management software with task tracking, Gantt charts, and team collaboration features."
+    }
+]
